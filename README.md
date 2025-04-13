@@ -10,7 +10,7 @@
 [<img align="center" alt="Sponsor Me" src="https://img.shields.io/badge/Sponsor-00457C?style=for-the-badge&logo=github&logoColor=white"/>][sponsor]
 [<img align="center" alt="BlueSky" src="https://img.shields.io/badge/BlueSky-144475.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />][bluesky]
 [<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
-[<img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-0956A2.svg?&style=for-the-badge&logo=bandcamp&logoColor=white" />][bandcamp]
 
 </div>
