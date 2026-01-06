@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=froggleston&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&custom_title=stats&line_height=24&hide_title=true&text_bold=true&card_width=400&ring_color=17a700&text_color=ceffc6&icon_color=17a700&border_color=17a700) ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=froggleston&theme=transparent&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&hide_title=true&text_bold=true&card_width=400&text_color=ceffc6&border_color=17a700)](https://carpentries.org)
+[![GitHub Stats](./profile/stats.svg) ![Language Stats](./profile/top-langs.svg)](https://carpentries.org)
 
 </div>
 
